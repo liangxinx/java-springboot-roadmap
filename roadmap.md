@@ -288,34 +288,54 @@ SQL：
 # 第二階段：Spring Boot 核心與資料庫（Day 11-20，濃縮古古課程精華）
 
 ## Day 11 (對齊古古 Day 1-3)
-- [ ]
+- [ ] Spring Boot 簡介
+- [ ] 開發環境安裝（Mac 版）
+- [ ] 開發環境安裝（Windows 版）
 
 ## Day 12 (對齊古古 Day 4-6)
-- [ ]
+- [ ] 第一個 Spring Boot 程式
+- [ ] Spring IoC 簡介
+- [ ] IoC、DI、Bean 的介紹
 
 ## Day 13 (對齊古古 Day 7-9)
-- [ ]
+- [ ] Bean 的創建和注入 - @Component、@Autowired
+- [ ] 指定注入的 Bean - @Qualifier
+- [ ] Bean 的初始化 - @PostConstruct
 
 ## Day 14 (對齊古古 Day 10-12)
-- [ ]
+- [ ] 讀取 Spring Boot 設定檔 - @Value、application.properties
+- [ ] Spring AOP 簡介
+- [ ] Spring AOP 的用法 - @Aspect
 
 ## Day 15 (對齊古古 Day 13-15)
-- [ ]
+- [ ] Spring MVC 簡介
+- [ ] Http 協議介紹
+- [ ] Url 路徑對應 - @RequestMapping
 
 ## Day 16 (對齊古古 Day 16-18)
-- [ ]
+- [ ] 結構化的呈現數據 - JSON 格式介紹
+- [ ] 返回值改成 JSON 格式 - @RestController
+- [ ] 常見的 Http method - GET 和 POST
 
 ## Day 17 (對齊古古 Day 19-21)
-- [ ]
+- [ ] 取得請求參數（上）- @RequestParam、@RequestBody
+- [ ] 取得請求參數（下）- @RequestHeader、@PathVariable
+- [ ] RESTful API 介紹
 
 ## Day 18 (對齊古古 Day 22-24)
-- [ ]
+- [ ] RESTful API 實作 - @GetMapping、@PostMapping...
+- [ ] Http Status Code（Http 狀態碼）介紹
+- [ ] Spring JDBC 簡介
 
 ## Day 19 (對齊古古 Day 25-27)
-- [ ]
+- [ ] 資料庫連線設定、IntelliJ 資料庫管理工具介紹
+- [ ] Spring JDBC 的用法（上）- 執行 INSERT、UPDATE、DELETE SQL
+- [ ] Spring JDBC 的用法（下）- 執行 SELECT SQL
 
 ## Day 20 (對齊古古 Day 28-30)
-- [ ]
+- [ ] MVC 架構模式 - Controller-Service-Dao 三層式架構
+- [ ] 實戰演練 - 打造一個簡單的圖書館系統
+- [ ] Spring Boot 零基礎入門總結
 
 
 ---
