@@ -30,25 +30,18 @@
 
 Java：
 
-- [ ] 安裝與設定 Java 開發環境
-- [ ] IntelliJ IDEA 基本操作
-- [ ] Java 程式結構
-- [ ] main method 理解
-- [ ] 變數與資料型態
-- [ ] Primitive Type
-- [ ] Scanner 輸入
+- [X] 安裝與設定 Java 開發環境
+- [X] IntelliJ IDEA 基本操作
+- [X] Java 程式結構
+- [X] main method 理解
+- [X] 變數與資料型態
+- [X] Primitive Type
+- [X] Scanner 輸入
 
 SQL：
 
-- [ ] SQLZoo Chapter 1
-- [ ] SQLZoo Chapter 2
-
-
-今日產出：
-
-- [ ] 完成第一個 Java 程式
-- [ ] 建立 Java 練習資料夾
-
+- [X] SQLZoo Chapter 1
+- [X] SQLZoo Chapter 2
 
 ---
 
