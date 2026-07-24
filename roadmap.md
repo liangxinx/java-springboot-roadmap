@@ -61,7 +61,7 @@ Java：
 
 SQL：
 
-- [ ] SQLZoo Chapter 3
+- [X] SQLZoo Chapter 3
 - [ ] SQLZoo Chapter 4
 
 
