@@ -49,25 +49,25 @@ SQL：
 
 Java：
 
-- [ ] 算術運算子
-- [ ] 比較運算子
-- [ ] 邏輯運算子
-- [ ] if / else
-- [ ] switch
-- [ ] for 迴圈
-- [ ] while 迴圈
-- [ ] break / continue
+- [X] 算術運算子
+- [X] 比較運算子
+- [X] 邏輯運算子
+- [X] if / else
+- [X] switch
+- [X] for 迴圈
+- [X] while 迴圈
+- [X] break / continue
 
 
 SQL：
 
 - [X] SQLZoo Chapter 3
-- [ ] SQLZoo Chapter 4
+- [X] SQLZoo Chapter 4
 
 
 今日產出：
 
-- [ ] 完成判斷式與迴圈練習
+- [X] 完成判斷式與迴圈練習
 
 
 ---

@@ -1,4 +1,4 @@
-# Java
+# Java — Day 1 筆記
 
 SDK：軟體開發套件（大統稱）
 JDK：Java 開發套件
