@@ -2,7 +2,7 @@
 
 ## 算術運算子
 
-![alt text](image-3.png)
+![alt text](image/image-3.png)
 
 > `int / int` 會直接捨去小數，若要保留小數需先用 `(double)` 強制轉型：
 > `double result = (double) a / b;`
@@ -44,7 +44,7 @@ count--;  // count 變回 5，等同於 count = count - 1
 
 ## 邏輯運算子
 
-![邏輯](image-4.png)
+![邏輯](image/image-4.png)
 
 > **短路求值**：`&&` 左邊為 `false` 就不再判斷右邊；`||` 左邊為 `true` 就不再判斷右邊。
 

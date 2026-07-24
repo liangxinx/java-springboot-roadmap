@@ -49,9 +49,9 @@ System.out.println();
 ```
 
 ## 資料型態
-![基本資料型態](image-1.png)
+![基本資料型態](image/image-1.png)
 參考資料型態
-![參考資料型態](image-2.png)
+![參考資料型態](image/image-2.png)
 
 ### 小提醒
 
