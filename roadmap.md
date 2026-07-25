@@ -87,7 +87,7 @@ Java：
 
 SQL：
 
-- [ ] SQLZoo Chapter 5
+- [X] SQLZoo Chapter 5
 
 
 今日產出：
