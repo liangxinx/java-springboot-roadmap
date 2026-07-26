@@ -74,11 +74,11 @@ public class Day4 {
 //用迴圈寫
 //public class Day4 {
 //    public static void main(String[] args) {
-////        StringBuilder sb = new StringBuilder();
-////        for (int i = 0; i < 5; i++) {
-////            sb.append(i);
-////        }
-////        System.out.println(sb);
+//        StringBuilder sb = new StringBuilder();
+//        for (int i = 0; i < 5; i++) {
+//            sb.append(i);
+//        }
+//        System.out.println(sb);
 //        StringBuilder sb2 = new StringBuilder("Hello World");
 //        //其他功能
 //        System.out.println(sb2.length());//長度

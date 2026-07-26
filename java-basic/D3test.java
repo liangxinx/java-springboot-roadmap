@@ -1,23 +1,23 @@
 
 //### Q5. 寫一個簡單的 void method
 //寫一個叫 `printStars` 的 method，參數是一個 `int count`，功能是印出 `count` 個 `*` 符號在同一行（例如傳入 5，印出 `*****`）。
-//public class D3test {
-//
-//    public static String  printStars(int b){
-//        String stars="";
-//        for (int i = 0; i < b; i++) {
-//            stars += "*";
-//        }
-//        return stars;
-//    }
-//    public static void main(String[] args) {
-//        System.out.println(printStars(2));
-//        System.out.println(printStars(5));
-//    }
-//}
+public class D3test {
+
+    public static String  printStars(int b){
+        String stars="";
+        for (int i = 0; i < b; i++) {
+            stars += "*";
+        }
+        return stars;
+    }
+    public static void main(String[] args) {
+        System.out.println(printStars(2));
+        System.out.println(printStars(5));
+    }
+}
 //        ### Q6. 寫一個有回傳值的 method
 //寫一個叫 `isEven` 的 method，參數是一個 `int number`，回傳 `boolean`，判斷這個數字是不是偶數。在 `main` 裡用 Scanner 讀取一個數字，呼叫這個 method 並印出結果。
-import java.util.Scanner;
+//import java.util.Scanner;
 //
 //public class D3test {
 //    public static boolean isEven(int number){
