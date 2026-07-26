@@ -76,24 +76,18 @@ SQL：
 
 Java：
 
-- [ ] Method 建立
-- [ ] Parameter 參數
-- [ ] Return 回傳值
-- [ ] Method 呼叫流程
-- [ ] Method Overloading
-- [ ] Array 陣列
-- [ ] 二維陣列
+- [X] Method 建立
+- [X] Parameter 參數
+- [X] Return 回傳值
+- [X] Method 呼叫流程
+- [X] Method Overloading
+- [X] Array 陣列
+- [X] 二維陣列
 
 
 SQL：
 
 - [X] SQLZoo Chapter 5
-
-
-今日產出：
-
-- [ ] 完成方法與陣列練習
-
 
 ---
 
@@ -101,22 +95,16 @@ SQL：
 
 Java：
 
-- [ ] String 基本概念
-- [ ] String 常用方法
-- [ ] equals 比較
-- [ ] StringBuilder
-- [ ] Arrays 工具類
+- [X] String 基本概念
+- [X] String 常用方法
+- [X] equals 比較
+- [X] StringBuilder
+- [X] Arrays 工具類
 
 
 SQL：
 
-- [ ] SQLZoo Chapter 6
-
-
-今日產出：
-
-- [ ] 完成字串處理練習
-
+- [X] SQLZoo Chapter 6
 
 ---
 
