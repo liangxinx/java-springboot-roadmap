@@ -122,7 +122,7 @@ Java：
 
 SQL：
 
-- [ ] SQLZoo Chapter 7
+- [X] SQLZoo Chapter 7
 
 
 今日產出：
