@@ -112,12 +112,12 @@ SQL：
 
 Java：
 
-- [ ] Class 類別
-- [ ] Object 物件
-- [ ] 屬性與方法
-- [ ] Constructor 建構子
-- [ ] this 關鍵字
-- [ ] Instance Variable
+- [X] Class 類別
+- [X] Object 物件
+- [X] 屬性與方法
+- [X] Constructor 建構子
+- [X] this 關鍵字
+- [X] Instance Variable
 
 
 SQL：
@@ -127,7 +127,7 @@ SQL：
 
 今日產出：
 
-- [ ] 建立第一個物件導向程式
+- [X] 建立第一個物件導向程式
 
 
 ---
@@ -136,18 +136,18 @@ SQL：
 
 Java：
 
-- [ ] Access Modifier
-- [ ] public
-- [ ] private
-- [ ] protected
-- [ ] Getter / Setter
-- [ ] static
-- [ ] final
+- [X] Access Modifier
+- [X] public
+- [X] private
+- [X] protected
+- [X] Getter / Setter
+- [X] static
+- [X] final
 
 
 SQL：
 
-- [ ] SQLZoo Chapter 8
+- [X] SQLZoo Chapter 8
 
 
 今日產出：
