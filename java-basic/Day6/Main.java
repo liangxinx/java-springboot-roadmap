@@ -16,6 +16,5 @@ public class Main {
         System.out.println(a.getAre());
         System.out.println(a.getCircumference());
         System.out.println(Circle.PI);
-        Circle.PI=5;
     }
 }

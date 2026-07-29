@@ -152,7 +152,7 @@ SQL：
 
 今日產出：
 
-- [ ] 完成簡單 Java Class 設計
+- [X] 完成簡單 Java Class 設計
 
 
 ---
@@ -161,10 +161,10 @@ SQL：
 
 Java：
 
-- [ ] Inheritance 繼承
-- [ ] extends
-- [ ] super
-- [ ] Method Override
+- [X] Inheritance 繼承
+- [X] extends
+- [X] super
+- [X] Method Override
 - [ ] Polymorphism 多型
 - [ ] instanceof
 
