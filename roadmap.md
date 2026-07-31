@@ -188,9 +188,9 @@ Java：
 - [X] Interface
 - [X] Abstract Class
 - [X] Exception 概念
-- [ ] try / catch
-- [ ] finally
-- [ ] throws
+- [X] try / catch
+- [X] finally
+- [X] throws
 
 
 SQL：
@@ -200,7 +200,7 @@ SQL：
 
 今日產出：
 
-- [ ] 完成例外處理練習
+- [X] 完成例外處理練習
 
 
 ---
@@ -209,22 +209,22 @@ SQL：
 
 Java：
 
-- [ ] ArrayList
-- [ ] LinkedList
-- [ ] HashMap
-- [ ] HashSet
-- [ ] Collection 使用情境
+- [X] ArrayList
+- [X] LinkedList
+- [X] HashMap
+- [X] HashSet
+- [X] Collection 使用情境
 
 
 SQL：
 
-- [ ] SQLZoo Chapter 11
-- [ ] SQLZoo Chapter 12
+- [X] SQLZoo Chapter 11
+- [X] SQLZoo Chapter 12
 
 
 今日產出：
 
-- [ ] 使用 Collection 完成資料管理
+- [X] 使用 Collection 完成資料管理
 
 
 ---
