@@ -165,18 +165,18 @@ Java：
 - [X] extends
 - [X] super
 - [X] Method Override
-- [ ] Polymorphism 多型
-- [ ] instanceof
+- [X] Polymorphism 多型
+- [X] instanceof
 
 
 SQL：
 
-- [ ] SQLZoo Chapter 9
+- [X] SQLZoo Chapter 9
 
 
 今日產出：
 
-- [ ] 完成繼承與多型練習
+- [X] 完成繼承與多型練習
 
 
 ---
@@ -185,9 +185,9 @@ SQL：
 
 Java：
 
-- [ ] Interface
-- [ ] Abstract Class
-- [ ] Exception 概念
+- [X] Interface
+- [X] Abstract Class
+- [X] Exception 概念
 - [ ] try / catch
 - [ ] finally
 - [ ] throws
@@ -195,7 +195,7 @@ Java：
 
 SQL：
 
-- [ ] SQLZoo Chapter 10
+- [X] SQLZoo Chapter 10
 
 
 今日產出：
