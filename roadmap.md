@@ -233,16 +233,16 @@ SQL：
 
 Java：
 
-- [ ] Java語法總整理
-- [ ] OOP概念整理
-- [ ] Collection整理
-- [ ] Exception整理
+- [X] Java語法總整理
+- [X] OOP概念整理
+- [X] Collection整理
+- [X] Exception整理
 
 
 SQL：
 
-- [ ] SQLZoo Chapter 13
-- [ ] SQLZoo Chapter 14
+- [X] SQLZoo Chapter 13
+- [X] SQLZoo Chapter 14
 
 
 實作：
@@ -253,15 +253,15 @@ SQL：
 
 功能：
 
-- [ ] 新增學生
-- [ ] 修改學生資料
-- [ ] 刪除學生
-- [ ] 查詢學生資料
+- [X] 新增學生
+- [X] 修改學生資料
+- [X] 刪除學生
+- [X] 查詢學生資料
 
 
 今日產出：
 
-- [ ] 完成 Java 基礎階段
+- [X] 完成 Java 基礎階段
 
 
 ---
@@ -269,24 +269,24 @@ SQL：
 # 第二階段：Spring Boot 核心與資料庫（Day 11-20，濃縮古古課程精華）
 
 ## Day 11 (對齊古古 Day 1-3)
-- [ ] Spring Boot 簡介
-- [ ] 開發環境安裝（Mac 版）
-- [ ] 開發環境安裝（Windows 版）
+- [X] Spring Boot 簡介
+- [X] 開發環境安裝（Mac 版）
+- [X] 開發環境安裝（Windows 版）
 
 ## Day 12 (對齊古古 Day 4-6)
-- [ ] 第一個 Spring Boot 程式
-- [ ] Spring IoC 簡介
-- [ ] IoC、DI、Bean 的介紹
+- [X] 第一個 Spring Boot 程式
+- [X] Spring IoC 簡介
+- [X] IoC、DI、Bean 的介紹
 
 ## Day 13 (對齊古古 Day 7-9)
-- [ ] Bean 的創建和注入 - @Component、@Autowired
-- [ ] 指定注入的 Bean - @Qualifier
-- [ ] Bean 的初始化 - @PostConstruct
+- [X] Bean 的創建和注入 - @Component、@Autowired
+- [X] 指定注入的 Bean - @Qualifier
+- [X] Bean 的初始化 - @PostConstruct
 
 ## Day 14 (對齊古古 Day 10-12)
-- [ ] 讀取 Spring Boot 設定檔 - @Value、application.properties
-- [ ] Spring AOP 簡介
-- [ ] Spring AOP 的用法 - @Aspect
+- [X] 讀取 Spring Boot 設定檔 - @Value、application.properties
+- [X] Spring AOP 簡介
+- [X] Spring AOP 的用法 - @Aspect
 
 ## Day 15 (對齊古古 Day 13-15)
 - [ ] Spring MVC 簡介
