@@ -289,9 +289,9 @@ SQL：
 - [X] Spring AOP 的用法 - @Aspect
 
 ## Day 15 (對齊古古 Day 13-15)
-- [ ] Spring MVC 簡介
-- [ ] Http 協議介紹
-- [ ] Url 路徑對應 - @RequestMapping
+- [X] Spring MVC 簡介
+- [X] Http 協議介紹
+- [X] Url 路徑對應 - @RequestMapping
 
 ## Day 16 (對齊古古 Day 16-18)
 - [ ] 結構化的呈現數據 - JSON 格式介紹
