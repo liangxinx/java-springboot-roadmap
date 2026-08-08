@@ -294,14 +294,14 @@ SQL：
 - [X] Url 路徑對應 - @RequestMapping
 
 ## Day 16 (對齊古古 Day 16-18)
-- [ ] 結構化的呈現數據 - JSON 格式介紹
-- [ ] 返回值改成 JSON 格式 - @RestController
-- [ ] 常見的 Http method - GET 和 POST
+- [X] 結構化的呈現數據 - JSON 格式介紹
+- [X] 返回值改成 JSON 格式 - @RestController
+- [X] 常見的 Http method - GET 和 POST
 
 ## Day 17 (對齊古古 Day 19-21)
-- [ ] 取得請求參數（上）- @RequestParam、@RequestBody
-- [ ] 取得請求參數（下）- @RequestHeader、@PathVariable
-- [ ] RESTful API 介紹
+- [X] 取得請求參數（上）- @RequestParam、@RequestBody
+- [X] 取得請求參數（下）- @RequestHeader、@PathVariable
+- [X] RESTful API 介紹
 
 ## Day 18 (對齊古古 Day 22-24)
 - [ ] RESTful API 實作 - @GetMapping、@PostMapping...
